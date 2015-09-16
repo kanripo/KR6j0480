@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說大吉祥天女十二名號經
+#+DATE: 2015-08-30 20:33:22.193005
+#+PROPERTY: JUAN 0
